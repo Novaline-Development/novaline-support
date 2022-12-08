@@ -29,6 +29,6 @@ Explain what should have happened instead.
 ## Checks
 Please tick the checkboxes that apply to this submission.
 
-- [] I am adding a submission that has not been found by anyone else
-- [] I ensured that the information provided is not false
-- [] I have verified that the issue is not caused by Novaline itself (eg. antivirus, firewall, etc.)
+- [ ] I am adding a submission that has not been found by anyone else
+- [ ] I ensured that the information provided is not false
+- [ ] I have verified that the issue is not caused by Novaline itself (eg. antivirus, firewall, etc.)
