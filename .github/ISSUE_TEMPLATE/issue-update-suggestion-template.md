@@ -18,6 +18,6 @@ Explain what has changed about the issue compared to what the wiki page currentl
 ## Checks
 Please tick the checkboxes that apply to this suggestion.
 
-[] I am updating an already existing issue
-[] I ensured that the information provided is not false
-[] I have verified that the suggestion does not introduce an issue that is not caused by Novaline itself (eg. antivirus, firewall, etc.)
+- [] I am updating an already existing issue
+- [] I ensured that the information provided is not false
+- [] I have verified that the suggestion does not introduce an issue that is not caused by Novaline itself (eg. antivirus, firewall, etc.)
